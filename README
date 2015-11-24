@@ -1,0 +1,3 @@
+This project produces a Java utility which will take a PDO (i2b2 Patient Data Object)
+and format from it a spreadsheet in Excel format ready for Onyx to pick up as an
+appointment list.
